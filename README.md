@@ -1,6 +1,3 @@
-![Alt Text](https://github.com/kunduarnab/RecyclerView-Inside-RecyclerView/blob/master/horizontal.gif)
-![Alt Text](https://github.com/kunduarnab/RecyclerView-Inside-RecyclerView/blob/master/vertical.gif)
-
 # RecyclerView Inside RecyclerView
 - Simple Code
 - RecyclerView containing another recyclerview
@@ -15,3 +12,5 @@ Modify this line inside your main custom adpater
  // For Horizontal List
  holder.list.setLayoutManager(new LinearLayoutManager(c, LinearLayoutManager.HORIZONTAL, false));
 ```
+
+![Alt Text](https://github.com/kunduarnab/RecyclerView-Inside-RecyclerView/blob/master/horizontal.gif) ![Alt Text](https://github.com/kunduarnab/RecyclerView-Inside-RecyclerView/blob/master/vertical.gif)
